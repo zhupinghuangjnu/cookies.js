@@ -1,4 +1,4 @@
-/*\
+/*\    Zping edit on 20190831 for test
 |*|
 |*|	:: cookies.js ::
 |*|
